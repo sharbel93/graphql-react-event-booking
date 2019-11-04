@@ -1,0 +1,34 @@
+{
+  "name": "graphql-react-event-booking",
+  "version": "1.0.0",
+  "description": "An event booking app that uses graphql, mongoose, node as backend and react as a frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharbel93/graphql-react-event-booking.git"
+  },
+  "keywords": [
+    "react",
+    "graphql",
+    "mongoose",
+    "nodejs",
+    "charts"
+  ],
+  "author": "sharbel chris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharbel93/graphql-react-event-booking/issues"
+  },
+  "homepage": "https://github.com/sharbel93/graphql-react-event-booking#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
